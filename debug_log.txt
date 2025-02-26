@@ -1,0 +1,60 @@
+Received data: mall_name=TSM, showtime=16:25, ticket_count=2, total_price=80000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740222713
+Transaction data: {"transaction_details":{"order_id":"TIX1740222713","gross_amount":"80000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: cffe89e7-f0fc-47d6-a6f7-5adebf323251
+Received data: mall_name=TSM, showtime=18:25, ticket_count=2, total_price=80000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740222839
+Transaction data: {"transaction_details":{"order_id":"TIX1740222839","gross_amount":"80000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 3604b57e-1867-4775-8f3e-a1ee0a32e9ce
+Received data: mall_name=TSM, showtime=16:59, ticket_count=2, total_price=100000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740222954
+Transaction data: {"transaction_details":{"order_id":"TIX1740222954","gross_amount":"100000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 3d759e5f-22b3-4a2e-8e86-5723323d2191
+Received data: mall_name=TSM, showtime=18:25, ticket_count=2, total_price=80000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740285188
+Transaction data: {"transaction_details":{"order_id":"TIX1740285188","gross_amount":"80000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 73f79301-5a7e-4fe6-9b5a-cb9b9bdf1042
+Received data: mall_name=TSM, showtime=18:25, ticket_count=2, total_price=80000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740285211
+Transaction data: {"transaction_details":{"order_id":"TIX1740285211","gross_amount":"80000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: e476cd94-89b5-41a1-be18-41be85d64a91
+Received data: mall_name=TSM, showtime=18:25, ticket_count=2, total_price=80000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740285276
+Transaction data: {"transaction_details":{"order_id":"TIX1740285276","gross_amount":"80000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 82467372-c738-4bae-b3e2-c913b947a0e5
+Received data: mall_name=TSM, showtime=16:54, ticket_count=2, total_price=90000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740286475
+Transaction data: {"transaction_details":{"order_id":"TIX1740286475","gross_amount":"90000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 483d6131-a286-4c92-83ed-536824e801e3
+Received data: mall_name=TSM, showtime=16:54, ticket_count=2, total_price=90000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740286614
+Transaction data: {"transaction_details":{"order_id":"TIX1740286614","gross_amount":"90000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 8d540dfe-9871-4cae-8d33-e78c4866f99e
+Received data: mall_name=TSM, showtime=12:54, ticket_count=2, total_price=90000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740287037
+Transaction data: {"transaction_details":{"order_id":"TIX1740287037","gross_amount":"90000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 6bf5a500-7a11-4377-a9cb-d47a5ee9d14f
+Received data: mall_name=TSM, showtime=14:54, ticket_count=1, total_price=45000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740291108
+Transaction data: {"transaction_details":{"order_id":"TIX1740291108","gross_amount":"45000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: d7b6c76c-cb36-4abb-8961-e9780fdf7a2e
+Received data: mall_name=TSM, showtime=16:54, ticket_count=1, total_price=45000, username=d24991840@gmail.com
+Generated Order ID: TIX1740297686
+Transaction data: {"transaction_details":{"order_id":"TIX1740297686","gross_amount":"45000"},"customer_details":{"first_name":"Customer","email":"d24991840@gmail.com"}}
+Generated Snap Token: c36b8e20-b2ce-4070-a763-fc2cbd83f2ab
+Received data: mall_name=TSM, showtime=14:54, ticket_count=1, total_price=45000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740413533
+Transaction data: {"transaction_details":{"order_id":"TIX1740413533","gross_amount":"45000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 17d1fbab-e827-41d0-a24b-dbf909c77780
+Received data: mall_name=TSM, showtime=15:14, ticket_count=2, total_price=70000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740458984
+Transaction data: {"transaction_details":{"order_id":"TIX1740458984","gross_amount":"70000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 9815c1bc-f647-49fa-9fdf-092af78674e9
+Received data: mall_name=TSM, showtime=14:54, ticket_count=1, total_price=45000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740462651
+Transaction data: {"transaction_details":{"order_id":"TIX1740462651","gross_amount":"45000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 32e7581b-898a-4abb-9e2b-0cb993945c49
+Received data: mall_name=TSM, showtime=14:54, ticket_count=2, total_price=90000, username=bangkevin2208@gmail.com
+Generated Order ID: TIX1740463272
+Transaction data: {"transaction_details":{"order_id":"TIX1740463272","gross_amount":"90000"},"customer_details":{"first_name":"Customer","email":"bangkevin2208@gmail.com"}}
+Generated Snap Token: 636177d2-e129-48bf-9329-631b8e8cb660
